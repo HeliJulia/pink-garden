@@ -1,0 +1,21 @@
+{
+    "name": "pink-garden",
+    "displayName": "Pink Garden",
+    "description": "Yes, it's very nice",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink Garden",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pink Garden-color-theme.json"
+            }
+        ]
+    }
+}
